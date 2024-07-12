@@ -1,0 +1,4 @@
+com\in28minutes\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\in28minutes\microservices\currencyconversionservice\CurrencyConversionController.class
+com\in28minutes\microservices\currencyconversionservice\CurrencyExchangeProxy.class
+com\in28minutes\microservices\currencyconversionservice\CurrencyConversion.class
