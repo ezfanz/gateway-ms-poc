@@ -1,4 +1,4 @@
-package irfan.microservices.api_gateway;
+package com.maybank2u.life.app.cloud.gateway;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;

@@ -1,4 +1,4 @@
-package irfan.microservices.api_gateway;
+package com.maybank2u.life.app.cloud.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
